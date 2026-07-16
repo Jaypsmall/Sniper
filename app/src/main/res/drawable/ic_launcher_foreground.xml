@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sniper Scope Circle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,24A30,30 0 1,0 54,84A30,30 0 1,0 54,24Z"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Crosshairs -->
+    <path
+        android:pathData="M54,30 L54,45"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:pathData="M54,63 L54,78"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:pathData="M30,54 L45,54"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:pathData="M63,54 L78,54"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Center Dot (Color Droplet vibe) -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M54,51A3,3 0 1,0 54,57A3,3 0 1,0 54,51Z" />
+</vector>

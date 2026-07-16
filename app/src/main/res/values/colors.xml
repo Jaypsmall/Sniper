@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hell_red">#FF0600</color>
+    <color name="deep_blood">#B71C1C</color>
+    <color name="abyss_black">#0D0D0D</color>
+    <color name="obsidian">#1A1A1A</color>
+    <color name="ash_grey">#9E9E9E</color>
+    <color name="soul_white">#E0E0E0</color>
+    <color name="shiny_silver">#D1D5D8</color>
+    <color name="brimstone_yellow">#FFD600</color>
+    <color name="demoni_purple">#9C27B0</color>
+</resources>

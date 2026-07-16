@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="Favoritos" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:title="Ajustes" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="Ayuda" />
+
+        <item
+            android:id="@+id/nav_export"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="Exportar" />
+        <item
+            android:id="@+id/nav_import"
+            android:icon="@android:drawable/ic_menu_upload"
+            android:title="Importar" />
+    </group>
+</menu>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    app:cardBackgroundColor="@color/obsidian"
+    app:cardCornerRadius="24dp"
+    app:cardElevation="12dp"
+    app:strokeColor="@color/hell_red"
+    app:strokeWidth="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <View
+            android:id="@+id/dialogColorPreview"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:background="@drawable/color_preview_bg" />
+
+        <TextView
+            android:id="@+id/dialogHexText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:fontFamily="monospace"
+            android:text="#FFFFFF"
+            android:textColor="@color/soul_white"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.05" />
+
+        <TextView
+            android:id="@+id/dialogRgbText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="RGB(255, 255, 255)"
+            android:textColor="@color/ash_grey"
+            android:textSize="14sp"
+            android:letterSpacing="0.1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnShare"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="24dp"
+            android:text="COMPARTIR COLOR"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            app:backgroundTint="@color/hell_red"
+            app:cornerRadius="12dp"
+            app:icon="@android:drawable/ic_menu_share"
+            app:iconGravity="textStart" />
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

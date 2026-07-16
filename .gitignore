@@ -1,0 +1,50 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.hprof
+*.pyc
+
+# Gradle and Android
+.gradle/
+build/
+app/build/
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+kotlin-daemon-embeddable-*.jar
+
+# Local configuration files
+local.properties
+
+# Secrets
+secrets.xml
+google-services.json
+
+# User-specific stuff
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Log files
+*.log
+
+# Android Studio
+*.iws
+out/

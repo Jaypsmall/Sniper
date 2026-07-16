@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="240dp"
+    android:background="@color/obsidian"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="48dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:contentDescription="App Icon"
+        android:src="@drawable/icono_sniper" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="12dp"
+        android:text="SNIPER"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/hell_red"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.2" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="COLOR PICKER PRO"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textColor="@color/brimstone_yellow"
+        android:textSize="12sp"
+        android:letterSpacing="0.15" />
+
+</LinearLayout>
