@@ -50,8 +50,8 @@ Si necesitas depurar o comprobar la query de inserción que realiza **Sniper** h
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf580dfe-c4ca-4f93-b7ac-b01bfab56ab0" width="30%" />
-  <img src="https://github.com/user-attachments/assets/fddf45de-1499-4c38-9dcc-905948716338" width="30%" />
+  <img src="https://github.com/user-attachments/assets/cf580dfe-c4ca-4f93-b7ac-b01bfab56ab0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fddf45de-1499-4c38-9dcc-905948716338" width="45%" />
 </p>
 
 ---
