@@ -1,4 +1,4 @@
-# 🎯 Sniper
+# 🎯 Sniper  ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow) 
 
 **Sniper** es una herramienta de precisión ultra-rápida diseñada para capturar colores del mundo real al instante utilizando la cámara de tu dispositivo. Es el accesorio premium definitivo diseñado para integrarse de forma nativa con el ecosistema de **HexColor PRO**.
 
@@ -7,7 +7,7 @@
 </p>
 
 <a href="https://github.com/Jaypsmall/DemoniWifi/releases/download/android/DemoniWifi_v1.0.5.apk">
-  <img src="https://img.shields.io/badge/DOWNLOAD_DEMONIWIFI_v1.0.5_APK-181717?style=flat&logo=android&logoColor=FF8B3D" alt="Download Android Release">
+  <img src="https://img.shields.io/badge/DOWNLOAD_SNIPER_v1.0.1_APK-181717?style=flat&logo=android&logoColor=yellow" alt="Download Android Release">
 </a>
 
 ---
