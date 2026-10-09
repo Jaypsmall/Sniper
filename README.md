@@ -6,6 +6,10 @@
   <img src="app/src/main/res/drawable/sniper_icono_nuevootro.png" width="150" alt="Sniper Logo">
 </p>
 
+<a href="https://github.com/Jaypsmall/DemoniWifi/releases/download/android/DemoniWifi_v1.0.5.apk">
+  <img src="https://img.shields.io/badge/DOWNLOAD_DEMONIWIFI_v1.0.5_APK-181717?style=flat&logo=android&logoColor=FF8B3D" alt="Download Android Release">
+</a>
+
 ---
 
 ## ✨ Características Principales
